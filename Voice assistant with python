@@ -3,7 +3,7 @@ import pyttsx3
 import openai
 
 # instead of this openai.api_key = you will use your key (by visiting openai.com/api)
-openai.api_key = "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"
+openai.api_key = " instead of this use your Api "
 
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
