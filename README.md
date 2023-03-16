@@ -10,7 +10,7 @@ Voice assistant in python program by using openai API
                  import openai
 
                  # instead of this openai.api_key = you will use your key (by visiting openai.com/api)
-                 openai.api_key = "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"
+                 openai.api_key = "  insdead of this use your own Api"
 
                  engine = pyttsx3.init()
                  voices = engine.getProperty('voices')
